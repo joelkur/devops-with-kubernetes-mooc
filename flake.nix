@@ -20,6 +20,7 @@
             gotools
             golangci-lint
             gopls
+            k9s
           ];
         };
       }
