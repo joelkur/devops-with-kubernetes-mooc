@@ -15,3 +15,6 @@ spec:
       containers:
         - name: todo-app
           image: jk0der/todo-app:exercise-1.05
+          env:
+          - name: PORT
+            value: "8080"
