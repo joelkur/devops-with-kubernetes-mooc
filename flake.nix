@@ -15,6 +15,7 @@
           packages = with pkgs; [
             bashInteractive
             k3d
+            kubectl
           ];
         };
       }
