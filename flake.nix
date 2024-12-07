@@ -16,6 +16,10 @@
             bashInteractive
             k3d
             kubectl
+            go
+            gotools
+            golangci-lint
+            gopls
           ];
         };
       }
