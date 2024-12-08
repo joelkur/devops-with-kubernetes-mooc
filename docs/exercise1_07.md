@@ -1,10 +1,9 @@
 # Exercise 1.07
 
 ## Commits
-- [95fc876](https://github.com/joelkur/devops-with-kubernetes-mooc/commit/95fc876f94a088939b4ed00542319ddc66cfc2cc) - exercise 1.07: add service and ingress to log-output
-- [acb01cb](https://github.com/joelkur/devops-with-kubernetes-mooc/commit/acb01cb74d93bf3d57378a229c3d0c4f1c41831d) - exercise 1.07: update log-output deployment tag
-- [2d24447](https://github.com/joelkur/devops-with-kubernetes-mooc/commit/2d244476a22fc4d352bb37de93f453cb065ae841) - exercise 1.07: add server to log-output app that responds with current status
-- [b13b41f](https://github.com/joelkur/devops-with-kubernetes-mooc/commit/b13b41f07ce6119c7dd45b57d0dd4581ccf64b43) - exercise 1.06: add service for todo-app
+- [commit 2d24447](https://github.com/joelkur/devops-with-kubernetes-mooc/commit/2d244476a22fc4d352bb37de93f453cb065ae841) - exercise 1.07: add server to log-output app that responds with current status
+- [commit acb01cb](https://github.com/joelkur/devops-with-kubernetes-mooc/commit/acb01cb74d93bf3d57378a229c3d0c4f1c41831d) - exercise 1.07: update log-output deployment tag
+- [commit 95fc876](https://github.com/joelkur/devops-with-kubernetes-mooc/commit/95fc876f94a088939b4ed00542319ddc66cfc2cc) - exercise 1.07: add service and ingress to log-output
 
 ## Description
 
